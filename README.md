@@ -1,4 +1,7 @@
 # 📊 HR Analytics Dashboard – Overview
+![Power BI](https://img.shields.io/badge/Tool-Power%20BI-yellow)
+![Status](https://img.shields.io/badge/Status-Completed-success)
+![License](https://img.shields.io/badge/License-MIT-blue)
 
 ## 📌 Project Description
 This project showcases the **Overview page of a Human Resources Analytics Dashboard** built to provide high-level insights into workforce data. It helps HR managers quickly understand hiring trends, employee distribution, and organizational structure.
